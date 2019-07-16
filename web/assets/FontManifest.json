@@ -1,0 +1,34 @@
+[
+  {
+    "family": "MaterialIcons",
+    "fonts": [
+      {
+        "asset": "https://fonts.gstatic.com/s/materialicons/v42/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2"
+      }
+    ]
+  },
+  {
+    "family": "Patrick Hand",
+    "fonts": [
+      {
+        "asset": "fonts/PatrickHand-Regular.ttf"
+      }
+    ]
+  },
+  {
+    "family": "Open Sans",
+    "fonts": [
+      {
+        "asset": "fonts/OpenSans-Regular.ttf"
+      }
+    ]
+  },
+  {
+    "family": "Open Sans-Light",
+    "fonts": [
+      {
+        "asset": "fonts/OpenSans-Light.ttf"
+      }
+    ]
+  }
+]
